@@ -12,7 +12,7 @@
 	//echo $_SERVER['HTTP_HOST'];
 
 	// Gestión de ruta de acceso a archivos
-	require_once($_SERVER['DOCUMENT_ROOT']."config/ruta.php");
+	require_once($_SERVER['DOCUMENT_ROOT']."/config/ruta.php");
 	//require_once($_SERVER['DOCUMENT_ROOT']."/comunNissan/config/ruta.php");
 ?>
 <!-- Inicio Container -->
