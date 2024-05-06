@@ -118,17 +118,17 @@
 				/*Propiedades del Servidor*/
 				//$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      		//Enable verbose debug output
 	    		$mail->isSMTP();                                            		//Send using SMTP
-			    $mail->Host       = 'p3plmcpnl492698.prod.phx3.secureserver.net';   //Set the SMTP server to send through
+			    $mail->Host       = 'p3plzcpnl452766.prod.phx3.secureserver.net';   //Set the SMTP server to send through
 			    $mail->SMTPAuth   = true;                                   		//Enable SMTP authentication
-			    $mail->Username   = 'info@excelrecall.com.sv';                     	//SMTP username
-			    $mail->Password   = 'g_Dfw2uYr*kSNMat7e';                           //SMTP password
+			    $mail->Username   = 'info@comunidadnissan.com.pa';                     	//SMTP username
+			    $mail->Password   = 'eUl-fP~7A?@$';                           //SMTP password
 			    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;           			//Enable implicit TLS encryption
 			    $mail->Port       = 465;                                    		//TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
 			    //Destinatarios
 
 			    /* Indicamos cual es nuestra dirección de correo y el nombre que verá el usuario que lee el correo */
-			    $mail->setFrom('info@excelrecall.com.sv', 'Excel Talleres El Salvador');
+			    $mail->setFrom('info@comunidadnissan.com.pa', 'Excel Talleres Panamà');
 			    
 			    /* Indicamos cual es la/s dirección/es de destino del correo */
 			    $mail->addAddress($cita->getCorreo());     //Add a recipient, Name is optional
@@ -214,21 +214,21 @@
 				/*Propiedades del Servidor*/
 				//$mail->SMTPDebug = SMTP::DEBUG_SERVER;                      		//Enable verbose debug output
 	    		$mail->isSMTP();                                            		//Send using SMTP
-			    $mail->Host       = 'p3plmcpnl492698.prod.phx3.secureserver.net';   //Set the SMTP server to send through
+			    $mail->Host       = 'p3plzcpnl452766.prod.phx3.secureserver.net';   //Set the SMTP server to send through
 			    $mail->SMTPAuth   = true;                                   		//Enable SMTP authentication
-			    $mail->Username   = 'info@excelrecall.com.sv';                     	//SMTP username
-			    $mail->Password   = 'g_Dfw2uYr*kSNMat7e';                           //SMTP password
+			    $mail->Username   = 'info@comunidadnissan.com.pa';                     	//SMTP username
+			    $mail->Password   = 'eUl-fP~7A?@$';                           //SMTP password
 			    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;           			//Enable implicit TLS encryption
 			    $mail->Port       = 465;                                    		//TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
 			    //Destinatarios
 
 			    /* Indicamos cual es nuestra dirección de correo y el nombre que verá el usuario que lee el correo */
-			    $mail->setFrom('info@excelrecall.com.sv', 'Excel Talleres El Salvador');
+			    $mail->setFrom('info@comunidadnissan.com.pa', 'Excel Talleres Panamá');
 			    
 			    /* Indicamos cual es la/s dirección/es de destino del correo */
 			    $mail->addAddress($cita->getCorreo());     //Add a recipient, Name is optional
-			    $mail->addReplyTo('info@excelrecall.com.sv', 'Excel Recall Información');
+			    $mail->addReplyTo('info@comunidadnissan.com.pa', 'Excel Recall Información');
 			    //$mail->addCC('cc@example.com');
 			    //$mail->addBCC('bcc@example.com');			
 

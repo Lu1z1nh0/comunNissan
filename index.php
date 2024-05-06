@@ -7,7 +7,7 @@
 	/* Conforma la conexion con la BD */
 	require_once("config/conexion-config.php");
 
-	//echo '<script> console.log("DOCUMENT_ROOT: '.$_SERVER['DOCUMENT_ROOT'].'"); </script>';
+	echo '<script> console.log("DOCUMENT_ROOT: '.$_SERVER['DOCUMENT_ROOT'].'"); </script>';
 	//echo $_SERVER['HTTP_HOST'];
 
 	// Gestión de ruta de acceso a archivos

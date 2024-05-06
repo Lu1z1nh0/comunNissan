@@ -32,12 +32,12 @@
 		$env2 = $_SERVER['SERVER_NAME']; // remote || local (excelrecall.test)
 		$secretKey = ""; 
 
-		if ($env2 == "excelrecall.com.sv") {
-			//excelrecall.com.sv - g-secret-recaptcha key
-			$secretKey =  "6LflCVEgAAAAAHZgcVwlnjfq_RiXiTpPmuzO-kQ7";
+		if ($env2 == "comunidadnissan.com.pa") {
+			//comunidadnissan.com.pa - g-secret-recaptcha key
+			$secretKey =  "6LfQ4tEpAAAAAHHxWkymKrExdvuPcKn5J0JBkrun";
 		} else {
-			//excelrecall.test - g-secret-recaptcha key
-			$secretKey =  "6Lct2mEgAAAAAPkNk4qqeQGtXmDWd9bX46TKYyxp";
+			//localhost - g-secret-recaptcha key
+			$secretKey =  "6LddMvofAAAAAGOXL4bGgFaN9Tf0fevf32eafHrX";
 		}
 
         $ip = $_SERVER['REMOTE_ADDR'];

@@ -3,15 +3,15 @@
 	unset($_SESSION['usuario']);
 	session_destroy();
 
-	$env = $_SERVER['SERVER_NAME']; // remote || local (excelrecall.test)
+	$env = $_SERVER['SERVER_NAME']; // remote || local (localhost)
 	$gcsitekey = ""; 
 
-	if ($env == "excelrecall.com.sv") {
-		//excelrecall.com.sv - g-site-recaptcha key
-		$gcsitekey =  "6LflCVEgAAAAALz3KEp0LMPZkjzF2pdUa7R0ZDLG";
+	if ($env == "comunidadnissan.com.pa") {
+		//comunidadnissan.com.pa - g-site-recaptcha key
+		$gcsitekey =  "6LfQ4tEpAAAAABExI50w5IVQEYHH27kvDYCigwXY";
 	} else {
-		//excelrecall.test - g-site-recaptcha key
-		$gcsitekey =  "6Lct2mEgAAAAAIDGhceYPw1PdetzjV_2oxAiYW0U";
+		//localhost - g-site-recaptcha key
+		$gcsitekey =  "6LddMvofAAAAANbWAsNCBY8sHjIOAxZt5VYPCuG_";
 	}
 
 	//echo $_SERVER['SERVER_NAME']."     ".$_SERVER['HTTP_HOST'];
