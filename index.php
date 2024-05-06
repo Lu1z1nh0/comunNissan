@@ -12,8 +12,8 @@
 	//echo $_SERVER['HTTP_HOST'];
 
 	// Gestión de ruta de acceso a archivos
-	require_once($_SERVER['DOCUMENT_ROOT']."/config/ruta.php");
-	//require_once($_SERVER['DOCUMENT_ROOT']."/comunNissan/config/ruta.php");
+	//require_once($_SERVER['DOCUMENT_ROOT']."/config/ruta.php");
+	require_once($_SERVER['DOCUMENT_ROOT']."/comunNissan/config/ruta.php");
 ?>
 <!-- Inicio Container -->
 <div class="container-fluid">
@@ -30,7 +30,6 @@
 					<br/>
 					<br/>
 					<br/>
-					<br/>
 					<h1 class="centertxt mb-4" style="color: #fff; font-size: 50px;     text-shadow: 1px 3px 4px black;">BIENVENIDO A <br/>COMUNIDAD NISSAN</h1>
 					<br/>
 					<p class="centertxt mb-4" style="color: #fff; font-size: 24px;     text-shadow: 1px 3px 4px black;">¡UNIDOS por una misma pasión!</p>
@@ -40,7 +39,7 @@
 					<!-- Inicio seccion verificar VIN/Placa -->
 					<form action="controllers/controlador-campanya" method="POST">
 						
-						<input style="width:100%; max-width:420px; margin: 0 auto;" type="text" name="vinpla" id="vinpla" maxlength="17" class="form-control" value="" placeholder="VIN/PLACA" required>
+						<input style="width:100%; max-width:420px; margin: 0 auto; border: 1px solid #000;" type="text" name="vinpla" id="vinpla" maxlength="17" class="form-control" value="" placeholder="VIN/PLACA" required>
 						
 						<div class="centrar">
 							<div id="novin" class="<?php if(isset($_GET['msjcls6'])){ echo $_GET['msjcls6']; } ?>"><?php if(isset($_GET['mensaje6'])){ echo $_GET['mensaje6']; } ?></div>

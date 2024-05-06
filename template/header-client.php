@@ -82,9 +82,9 @@
 
 		<!-- Inicio Header -->
 		<header>
-			<div class="logo-admin">
+			<div class="logo-admin mt-3 mb-3">
 				<a href="./" title="Ir a Inicio">
-					<img alt="logo-nissan" src="./assets/img/logo-nissan.png" style="width: 240px;" />
+					<img alt="logo-nissan-up" src="./assets/img/nissan-next-logo.svg" style="width: 160px;" />
 				</a>
 			</div>
 			
