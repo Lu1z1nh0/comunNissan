@@ -4,6 +4,15 @@
 /*Body en vista cliente*/
 body {
     background-color: #000;
+	font-family: calibri;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: calibri;
+    font-weight: 700;
+    line-height: 1.2;
+    color: inherit;
 }
 
 /* Label vista cliente */
@@ -307,9 +316,9 @@ input [type="file"] {
 
 .logo-admin {
 	display: flex;
-    justify-content: center;
-    padding-top: 15px;
-    padding-bottom: 20px;
+	justify-content: center;
+	padding-top: 5px;
+	padding-bottom: 0px;
 }
 
 .confirmacion {
@@ -573,12 +582,11 @@ a:hover {
     font-weight: bold;
     text-align: center;
     background-color: #d13239;
-    padding: 10px 10px 10px 10px;
-    max-width: 150px;
+    padding: 5px 30px 5px 30px;
     text-transform: uppercase;
-    border: solid 1px #1e1e1e;
+    border: solid 1px #1e1e1eb3;
     border-radius: 5px;
-	cursor: pointer;
+    cursor: pointer;
 }
 
 .boton-v2:hover {
@@ -588,10 +596,9 @@ a:hover {
     font-weight: bold;
     text-align: center;
     background-color: #ffffff;
-    padding: 10px 10px 10px 10px;
-    max-width: 150px;
+    padding: 5px 30px 5px 30px;
     text-transform: uppercase;
-    border: solid 1px #1e1e1e;
+    border: solid 1px #d13239bd;
     border-radius: 5px;
 }
 

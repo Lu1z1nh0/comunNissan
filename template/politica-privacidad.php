@@ -7,7 +7,7 @@
 		<div class="centrar">
 			<div>
 				<p style="text-align: justify;">
-					La presente Política de Privacidad establece los términos en que TALLER DIDEA S.A. DE C.V. usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo, esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+					La presente Política de Privacidad establece los términos en que Panameña de Motores, S.A. usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo, esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
 					<br/>
 					<br/>
 					<b>Información que es requerida</b> 
@@ -22,7 +22,7 @@
 					Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
 					<br/>
 					<br/>
-					TALLER DIDEA S.A. DE C.V. está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
+					Panameña de Motores, S.A. está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
 					<br/>
 					<br/>
 					<b>Cookies</b>
@@ -49,13 +49,13 @@
 					Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.
 					<br/>
 					<br/>
-					TALLER DIDEA S.A. DE C.V. se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
+					Panameña de Motores, S.A. se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
 					<br/>
 					<!--
 					<hr style="margin-bottom: 30px;">
 							
 					<div class="centrar">
-						<a href="https://excelautomotriz.com/el-salvador/" target="_blank"><img title="" src="assets/img/excel-logo-small.png" alter="Excel-Automotriz-SLV" style="width: 30px;" /></a>	
+						<a href="https://excelautomotriz.com/panama/" target="_blank"><img title="" src="assets/img/excel-logo-small.png" alter="Excel-Automotriz-PNA" style="width: 30px;" /></a>	
 					</div>
 					-->
 				</p>

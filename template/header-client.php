@@ -5,20 +5,18 @@
 		<meta content="IE=edge" http-equiv="X-UA-Compatible">    
 		<meta content="width=device-width, initial-scale=1" name="viewport">
 		<meta content="MarkCoWeb" name="author">
-		<meta content="Excel-Talleres-Recall-SV" name="description">
+		<meta content="Comunidad-Nissan" name="description">
 		
-		<title>Excel Talleres Recall SV</title>
+		<title>Comunidad Nissan Panamá</title>
 
 		<!-- Google Tag Manager -->
 		<script>
-			/*
-			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MTN4ZD9');
-			*/
+			
 		</script>
 		<!-- End Google Tag Manager -->
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="./assets/img/excel-favico.ico">
+		<link rel="shortcut icon" href="./assets/img/nissan.ico">
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="./assets/css/bootstrap.min.css" type="text/css">    
@@ -84,7 +82,11 @@
 
 		<!-- Inicio Header -->
 		<header>
-			<div class="logo-admin"><a href="./" title="Ir a Inicio"><img alt="logos-marcas" src="./assets/img/excel-logo-white.png"></a></div>
+			<div class="logo-admin">
+				<a href="./" title="Ir a Inicio">
+					<img alt="logo-nissan" src="./assets/img/logo-nissan.png" style="width: 240px;" />
+				</a>
+			</div>
 			
 			<!-- Global site tag (gtag.js) - Google Analytics -->
 			<!--
